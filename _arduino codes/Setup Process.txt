@@ -1,0 +1,9 @@
+Tool -> Board -> Board Manager -> Search esp8266 (esp8266 by ESP8266 Community - install it)
+
+File=>Preference=>Additional Boards Manager URLs, (add the following URL)
+http://arduino.esp8266.com/versions/2.4.1/package_esp8266com_index.json
+
+Tools=>Board:xxx => select NodeMCU 1.0 (ESP-12E module)
+
+Tools => Port => select port
+
